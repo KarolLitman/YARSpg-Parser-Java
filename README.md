@@ -1,6 +1,6 @@
-# YARSpg-Lexer-Java
+# YARS-PG-Lexer-Java
 
-YARSpg Lexer and Parser in Java generated based [YARSpg Grammar](https://github.com/lszeremeta/antlr-yarspg) using [ANTLR v4](https://github.com/antlr/antlr4)
+YARS-PG Lexer and Parser in Java generated based [YARSpg Grammar](https://github.com/lszeremeta/antlr-yarspg) using [ANTLR v4](https://github.com/antlr/antlr4)
 
 This project is clean version of generated files . It has the lexer, parser grammars and Listener.
 
