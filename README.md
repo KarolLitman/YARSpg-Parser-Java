@@ -1,4 +1,4 @@
-# YARS-PG Lexer Java
+# YARS-PG Parser Java
 
 YARS-PG Lexer and Parser in Java generated based [YARSpg Grammar](https://github.com/lszeremeta/antlr-yarspg) using [ANTLR v4](https://github.com/antlr/antlr4)
 
