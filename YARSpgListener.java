@@ -87,6 +87,16 @@ public interface YARSpgListener extends ParseTreeListener {
 	 */
 	void exitRelationship_label(YARSpgParser.Relationship_labelContext ctx);
 	/**
+	 * Enter a parse tree produced by {@link YARSpgParser#ido}.
+	 * @param ctx the parse tree
+	 */
+	void enterIdo(YARSpgParser.IdoContext ctx);
+	/**
+	 * Exit a parse tree produced by {@link YARSpgParser#ido}.
+	 * @param ctx the parse tree
+	 */
+	void exitIdo(YARSpgParser.IdoContext ctx);
+	/**
 	 * Enter a parse tree produced by {@link YARSpgParser#node_label}.
 	 * @param ctx the parse tree
 	 */

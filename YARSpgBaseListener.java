@@ -111,6 +111,18 @@ public class YARSpgBaseListener implements YARSpgListener {
 	 *
 	 * <p>The default implementation does nothing.</p>
 	 */
+	@Override public void enterIdo(YARSpgParser.IdoContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
+	@Override public void exitIdo(YARSpgParser.IdoContext ctx) { }
+	/**
+	 * {@inheritDoc}
+	 *
+	 * <p>The default implementation does nothing.</p>
+	 */
 	@Override public void enterNode_label(YARSpgParser.Node_labelContext ctx) { }
 	/**
 	 * {@inheritDoc}
